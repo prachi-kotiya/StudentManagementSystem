@@ -161,19 +161,19 @@ Through this project, I gained practical experience in:
 
 ### 👨‍💼 Admin Dashboard
 
-![Admin Dashboard](screenshots/admin-dashboard.png)
+![Admin Dashboard](screenshots/admin%20dashboard.png)
 
 ### 🎓 Student Dashboard
 
-![Student Dashboard](screenshots/student-dashboard.png)
+![Student Dashboard](screenshots/student%20dashboard.png)
 
 ### 👨‍🏫 Teacher Dashboard
 
-![Teacher Dashboard](screenshots/teacher-dashboard.png)
+![Teacher Dashboard](screenshots/teacher%20dashboard.png)
 
 ### 👨‍👩‍👧 Parent Dashboard
 
-![Parent Dashboard](screenshots/parent-dashboard.png)
+![Parent Dashboard](screenshots/parent%20dashboard.png)
 ## 👩‍💻 Author
 
 **Prachi Kotiya**
