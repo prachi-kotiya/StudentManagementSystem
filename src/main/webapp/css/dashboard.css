@@ -1,0 +1,80 @@
+body{
+    margin:0;
+    padding:0;
+    background:#f4f7fc;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.sidebar{
+    width:250px;
+    height:100vh;
+    position:fixed;
+    background:#0d6efd;
+    color:white;
+}
+
+.sidebar h3{
+    text-align:center;
+    padding:20px;
+    border-bottom:1px solid rgba(255,255,255,.2);
+}
+
+.sidebar a{
+    display:block;
+    color:white;
+    padding:15px 20px;
+    text-decoration:none;
+    transition:.3s;
+}
+
+.sidebar a:hover{
+    background:#0b5ed7;
+    padding-left:28px;
+}
+
+.main-content{
+    margin-left:250px;
+}
+
+.topbar{
+    height:70px;
+    background:white;
+    box-shadow:0 2px 10px rgba(0,0,0,.1);
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:0 30px;
+}
+
+.dashboard{
+    padding:30px;
+}
+
+.card-box{
+    border-radius:15px;
+    color:white;
+    padding:20px;
+    margin-bottom:20px;
+    box-shadow:0 4px 10px rgba(0,0,0,.15);
+}
+
+.bg-student{background:#0d6efd;}
+.bg-teacher{background:#198754;}
+.bg-parent{background:#fd7e14;}
+.bg-attendance{background:#0dcaf0;}
+.bg-fee{background:#dc3545;}
+.bg-result{background:#6f42c1;}
+.sidebar{
+    position:fixed;
+    left:0;
+    top:0;
+    width:240px;
+    height:100vh;
+    background:#212529;
+    color:white;
+}
+
+.main-content{
+    margin-left:240px;
+    padding:25px;
+}

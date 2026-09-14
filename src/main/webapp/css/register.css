@@ -1,0 +1,148 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Segoe UI',sans-serif;
+}
+
+body{
+    min-height:100vh;
+
+    background:
+    linear-gradient(
+    rgba(0,0,0,.55),
+    rgba(0,0,0,.55)),
+    url('../images/hero-bg.jpg');
+
+    background-size:cover;
+    background-position:center;
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+    padding:30px 0;
+}
+
+.register-card{
+
+    width:500px;
+
+    padding:35px;
+
+    border-radius:20px;
+
+    background:rgba(255,255,255,0.12);
+
+    backdrop-filter:blur(15px);
+
+    border:1px solid rgba(255,255,255,0.2);
+
+    box-shadow:0 8px 32px rgba(0,0,0,.3);
+
+    color:white;
+
+    text-align:center;
+}
+
+.logo{
+    font-size:55px;
+    margin-bottom:15px;
+}
+
+.register-card h1{
+    margin-bottom:8px;
+}
+
+.register-card p{
+    margin-bottom:20px;
+}
+
+.input-box{
+    position:relative;
+    margin-bottom:18px;
+}
+
+.input-box i{
+    position:absolute;
+    left:15px;
+    top:15px;
+    color:white;
+}
+
+.input-box input,
+.input-box select{
+
+    width:100%;
+
+    padding:14px 14px 14px 45px;
+
+    border:none;
+
+    outline:none;
+
+    border-radius:12px;
+
+    background:rgba(255,255,255,0.15);
+
+    color:white;
+}
+
+.input-box select{
+    cursor:pointer;
+}
+
+.input-box option{
+    color:black;
+}
+
+.input-box input::placeholder{
+    color:#ddd;
+}
+
+button{
+
+    width:100%;
+
+    padding:14px;
+
+    border:none;
+
+    border-radius:12px;
+
+    background:#1e63ff;
+
+    color:white;
+
+    font-size:16px;
+
+    cursor:pointer;
+
+    transition:.3s;
+}
+
+button:hover{
+    transform:translateY(-2px);
+}
+
+.bottom-links{
+    margin-top:20px;
+}
+
+.bottom-links a{
+    color:white;
+    text-decoration:none;
+}
+
+.home-btn{
+    display:inline-block;
+    margin-top:12px;
+}/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Jun 26, 2026, 7:48:54 PM
+    Author     : Dell
+*/
+
