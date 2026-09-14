@@ -153,27 +153,27 @@ Through this project, I gained practical experience in:
 
 ### 🔐 Login Page
 
-![Login Page](screenshots/login.png)
+![Login Page](screenshots/screenshot%20login.png)
 
 ### 📝 Registration Page
 
-![Registration Page](screenshots/register.png)
+![Registration Page](screenshots/screenshot%20register.png)
 
 ### 👨‍💼 Admin Dashboard
 
-![Admin Dashboard](screenshots/admin%20dashboard.png)
+![Admin Dashboard](screenshots/screenshot%20admin%20dashboard.png)
 
 ### 🎓 Student Dashboard
 
-![Student Dashboard](screenshots/student%20dashboard.png)
+![Student Dashboard](screenshots/screenshot%20student%20dashboard.png)
 
 ### 👨‍🏫 Teacher Dashboard
 
-![Teacher Dashboard](screenshots/teacher%20dashboard.png)
+![Teacher Dashboard](screenshots/screenshot%20teacher%20dashboard.png)
 
 ### 👨‍👩‍👧 Parent Dashboard
 
-![Parent Dashboard](screenshots/parent%20dashboard.png)
+![Parent Dashboard](screenshots/screenshot%20parent%20dashboard.png)
 ## 👩‍💻 Author
 
 **Prachi Kotiya**
