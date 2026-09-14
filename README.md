@@ -151,8 +151,29 @@ Through this project, I gained practical experience in:
 
 ## 📸 Screenshots
 
-Screenshots of the application can be added here to demonstrate the user interface and major features.
+### 🔐 Login Page
 
+![Login Page](screenshots/login.png)
+
+### 📝 Registration Page
+
+![Registration Page](screenshots/register.png)
+
+### 👨‍💼 Admin Dashboard
+
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+### 🎓 Student Dashboard
+
+![Student Dashboard](screenshots/student-dashboard.png)
+
+### 👨‍🏫 Teacher Dashboard
+
+![Teacher Dashboard](screenshots/teacher-dashboard.png)
+
+### 👨‍👩‍👧 Parent Dashboard
+
+![Parent Dashboard](screenshots/parent-dashboard.png)
 ## 👩‍💻 Author
 
 **Prachi Kotiya**
